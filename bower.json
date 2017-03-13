@@ -1,0 +1,24 @@
+{
+  "name": "webapp",
+  "authors": [
+    "莎呱y <zyanzi1607@163.com>"
+  ],
+  "description": "angular webapp",
+  "main": "",
+  "keywords": [
+    "angularjs"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.2",
+    "angular-ui-router": "ui-router#^0.4.2"
+  }
+}
