@@ -16,5 +16,3 @@ angular.module('app').filter('filterByObj',[function(){
     return result;
   };
 }]);
-
-//过滤操作
